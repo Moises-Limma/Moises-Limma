@@ -1,5 +1,11 @@
 ### Hi there 👋
+![HTML](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=html5&logoColor=F7DF1E)&nbsp;
+![CSS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=css&logoColor=F7DF1E)&nbsp;
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![Styled-component](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=styled-componentst&logoColor=F7DF1E)&nbsp;
+![Tailwind](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=tailwind&logoColor=F7DF1E)&nbsp;
+![React](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=react&logoColor=F7DF1E)&nbsp;
+![C#](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=c#&logoColor=F7DF1E)&nbsp;
 <!--
 **Moises-Limma/Moises-Limma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
